@@ -18,7 +18,7 @@ A **play sequence** is defined as one or more completed approach–current ridin
 
 ## Code
 - Terrapin Play Full Dataset Code.R  
-- Terrapin Play Reduced Dataset.R  
+- Terrapin Play Reduced Dataset Code.R  
 
 
 ## Column Descriptions
