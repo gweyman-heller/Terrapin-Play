@@ -31,8 +31,8 @@ Initials of the observer who recorded the behavior.
 
 ### time_of_day
 Indicates whether the observation session occurred in the morning or afternoon.  
-- **AM** – Session started no later than 10:00 AM  
-- **PM** – Session started after 3:00 PM  
+- **AM** – Session started no later than 0900. 
+- **PM** – Session started after 1500.
 
 ### time
 Clock time at which the play behavior was recorded.
